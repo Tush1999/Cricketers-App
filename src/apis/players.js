@@ -9,7 +9,7 @@ const players = [
         dob: 594691200000,
     },
     {
-        id: "_2",
+    id: "_2",
         name: "Rohit Sharma",
         description:
             "Rohit Gurunath Sharma, is an Indian international cricketer and the current captain of India men’s cricket team in all formats. Considered one of the best batsmen of his generation and one of greatest opening batters of all time, Sharma is known for his timing, elegance, six-hitting abilities and leadership skills.",
